@@ -1,0 +1,1 @@
+# machstatz_practice_django_project
